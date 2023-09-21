@@ -1,0 +1,102 @@
+
+body{
+    background-image: url(./Title-Image.png);
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+#image{
+    position: relative;
+    margin-left: 40px;
+    margin-top: 30px;
+    height: 50px;
+    width: 85px;
+}
+    
+#notification{
+    position: relative;
+    margin-left: 1200px;
+    margin-top: 20px;
+   
+}
+#symbol{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+    width: 40px;
+    
+   
+}
+#search{
+    position: relative;
+}
+#names{
+    display: flex;
+    flex-direction: row;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 200px;
+    top: 70px;
+    color: aliceblue;
+    letter-spacing: 10px;
+}
+#shows{
+    position: relative;
+    left: 190px;
+    top: 320px;
+    color: antiquewhite;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    letter-spacing: 10px;
+}
+#Maid{
+   
+    margin-top:320px ;
+    margin-left: 100px;
+    font-size: 150px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    color: white;
+    letter-spacing: 5px;   
+}
+#play{
+   position: relative;
+  
+}
+#see{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 50px;
+    font-weight: 300;
+    margin-top: 20px;
+     
+}
+#right{
+    margin-left: 150px;
+    margin-bottom: 10px;
+}
+
+#pictures{
+    display: flex;
+    flex-direction: row;
+    width: 150px;
+    height: 130px;
+}
+.class{
+    position:relative;
+    top: 100px;
+}
+#play{ 
+    position: relative;
+    
+}
+#emoji{
+    position: relative;
+    left: 1300px;
+    bottom: 50px;
+}
+
+
+
+   
+
